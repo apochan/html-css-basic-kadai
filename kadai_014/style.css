@@ -1,0 +1,28 @@
+body {
+    font-family: "Arial", "Meiryo", sans-serif;
+    text-align: center;
+}
+.google-fonts {
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+}
+/* ルート要素のフォントサイズを20pxへ */
+html {
+    font-size: 125%;
+}
+/* h1のフォントサイズをその2倍 */
+h1 {
+    font-size: 2rem;
+    letter-spacing: 1.2em;
+    text-shadow: 1px 2px 3px gray;
+    border-bottom: 3px solid rgb(115, 115, 114);
+}
+.skyblue {
+    color: skyblue;
+}
+.pink {
+    color: rgb(255, 192, 203);
+}
+#basic {
+    font-weight: bold;
+}
